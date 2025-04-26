@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taskyy-frontend/static/css/main.0f306e06.css",
+    "main.js": "/taskyy-frontend/static/js/main.206f641d.js",
+    "index.html": "/taskyy-frontend/index.html",
+    "main.0f306e06.css.map": "/taskyy-frontend/static/css/main.0f306e06.css.map",
+    "main.206f641d.js.map": "/taskyy-frontend/static/js/main.206f641d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f306e06.css",
+    "static/js/main.206f641d.js"
+  ]
+}
